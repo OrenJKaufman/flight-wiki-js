@@ -2,7 +2,7 @@
 title: Boeing 737
 description: 
 published: true
-date: 2026-10-07T23:43:42.391Z
+date: 2026-10-07T23:44:18.148Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-07T21:03:37.888Z
@@ -15,4 +15,4 @@ Subtract 4,000 lbs from OnAir when entering into SimBrief.
 [QRH](/assets/qrh/1_737-800-qrh.pdf)  
 [Download QRH](/assets/qrh/1_737-800-qrh.pdf)
 <a href="#" onclick="window.myCustomClickHandler(event)">click me</a>
-<a href="#" onclick="console.log('clicky clicky');return false;">click me2</a>
+<a href="/" onclick="console.log('clicky clicky');return false;">click me2</a>
