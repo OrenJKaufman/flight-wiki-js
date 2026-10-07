@@ -2,7 +2,7 @@
 title: Boeing 737
 description: 
 published: true
-date: 2026-10-07T23:14:30.631Z
+date: 2026-10-07T23:14:47.217Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-07T21:03:37.888Z
@@ -17,6 +17,7 @@ Subtract 4,000 lbs from OnAir when entering into SimBrief.
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   document.body.addEventListener("click", function(e) {
+    alert('hey');
     let link = e.target.closest("a");
     
     // Check if the clicked link is a PDF
