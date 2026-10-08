@@ -2,7 +2,7 @@
 title: Beechcraft Baron B58P
 description: 
 published: true
-date: 2026-10-08T21:17:41.948Z
+date: 2026-10-08T21:19:57.761Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-08T20:24:41.733Z
@@ -16,8 +16,8 @@ dateCreated: 2026-10-08T20:24:41.733Z
 ---
 
 ## VSpeeds
-<div style="display:flex;flex:row;gap:32px">
-<div>
+<div style="display:flex;flex:row wrap;gap:32px">
+<div style="min-width:300px">
 
 -|-|-
 V~r~|81|Rotation
