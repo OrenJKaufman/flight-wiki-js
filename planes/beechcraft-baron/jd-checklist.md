@@ -2,7 +2,7 @@
 title: JD Checklist
 description: 
 published: true
-date: 2026-10-08T21:38:02.957Z
+date: 2026-10-08T22:15:39.745Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-08T21:33:30.855Z
