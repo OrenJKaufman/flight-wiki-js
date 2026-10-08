@@ -2,7 +2,7 @@
 title: Beechcraft Baron B58P
 description: 
 published: true
-date: 2026-10-08T20:48:39.639Z
+date: 2026-10-08T20:49:01.669Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-08T20:24:41.733Z
@@ -19,7 +19,7 @@ V~s~|84|Clean Stalling
 V~so~|78|Dirty Stalling
 V~x~|95|Best Angle of Climb
 V~y~|115|Best Rate of Climb
-V~ref~|101|
+V~ref~|101| |
 V~a~|170|Maneuvering
 V~g~|122|Glide
 V~fe~|143|Max Full Flap Extension
