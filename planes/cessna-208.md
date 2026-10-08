@@ -2,7 +2,7 @@
 title: Cessna 208 Caravan
 description: 
 published: true
-date: 2026-10-08T22:13:19.767Z
+date: 2026-10-08T22:18:21.423Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-08T22:13:19.767Z
@@ -20,7 +20,7 @@ V~s~|63|Clean Stalling
 V~so~|50|Dirty Stalling
 V~x~|72|Best Angle of Climb
 V~y~|104|Best Rate of Climb
-V~ref|65| |
+V~ref~|65| |
 V~a~|148|Maneuvering
 V~g~|97|Glide
 V~fo~|125|Max Flap Operating
