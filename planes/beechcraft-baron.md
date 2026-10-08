@@ -2,14 +2,20 @@
 title: Beechcraft Baron B58P
 description: 
 published: true
-date: 2026-10-08T20:49:01.669Z
+date: 2026-10-08T21:13:45.838Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-08T20:24:41.733Z
 ---
 
-## VSpeeds
+* [VSpeeds](#vspeeds)
+* [Power Settings (TC)](#power-settings-tc)
+* [Bindings](#bindings)
+* [References](#references)
 
+---
+
+## VSpeeds
 <div style="display:flex;flex:row;gap:32px">
 <div>
 
@@ -40,6 +46,24 @@ V~yse~|115|Best Rate of Climb
 </div>
 </div>
 
+## Power Settings (TC)
+| |Throttle|Prop|Mixture|
+|-|
+Max Continuous|Full|2700|Max
+Enroute Climb|36|2500|Max
+Cruise|33|2500|Leaned
+Cruise Climb|35.5|2500|Leaned
+
+### Recommended Climb Airspeeds
+* 130 kts to 16,000'
+* 120 kts to 18,000'
+* 105 kts to 25,000'
+
+## Bindings
+* OBS 1 and 2 on PAP CRS 1 and 2
+* Heading on POP
+  * HDG SEL toggles speed, display shows 000 for normal, 111 for fast
+* KAS dual encoder push knob on right double dual encoder
 
 ## References
-[Blacksquare Manual](/assets/beechcraft-baron/bksq_baronprofessionalmanual.pdf)
+* [Blacksquare Manual](/assets/beechcraft-baron/bksq_baronprofessionalmanual.pdf)
