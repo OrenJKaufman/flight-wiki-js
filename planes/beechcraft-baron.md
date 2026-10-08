@@ -2,12 +2,13 @@
 title: Beechcraft Baron B58P
 description: 
 published: true
-date: 2026-10-08T21:33:55.452Z
+date: 2026-10-08T21:45:02.476Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-08T20:24:41.733Z
 ---
 
+* [OnAir Loading](#onair-loading)
 * [VSpeeds](#vspeeds)
 * [Power Settings (TC)](#power-settings-tc)
 * [Bindings](#bindings)
@@ -15,6 +16,9 @@ dateCreated: 2026-10-08T20:24:41.733Z
 * [Checklist](/planes/beechcraft-baron/jd-checklist)
 
 ---
+
+## OnAir Loading
+Subtract 4,000 lbs from OnAir when entering into SimBrief.
 
 ## VSpeeds
 <div style="display:flex;flex-flow:row wrap;gap:32px">
