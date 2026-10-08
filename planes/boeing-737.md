@@ -2,7 +2,7 @@
 title: Boeing 737
 description: 
 published: true
-date: 2026-10-08T18:47:27.145Z
+date: 2026-10-08T18:50:59.179Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-07T21:03:37.888Z
