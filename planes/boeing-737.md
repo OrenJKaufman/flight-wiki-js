@@ -2,7 +2,7 @@
 title: Boeing 737
 description: 
 published: true
-date: 2026-10-08T19:21:06.226Z
+date: 2026-10-08T19:46:50.049Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-07T21:03:37.888Z
@@ -14,8 +14,4 @@ Subtract 4,000 lbs from OnAir when entering into SimBrief.
 
 ## References
 
-<a href="https://truenas.local:30022/assets/qrh/1_737-800-qrh.pdf" target="_blank" rel="noopener noreferrer">QRH</a>
-<a href="/assets/qrh/1_737-800-qrh.pdf" target="_blank" rel="noopener noreferrer">QRH relative</a>
-[QRH Markdown](/assets/qrh/1_737-800-qrh.pdf)
-<a href="https://orenjkaufman.github.io/flight-wiki-js/assets/qrh/1_737-800-qrh.pdf" target="_blank">QRH Github</a>
-[Home](/home)
+[QRH](/assets/qrh/1_737-800-qrh.pdf)
