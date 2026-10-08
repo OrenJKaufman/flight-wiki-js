@@ -2,7 +2,7 @@
 title: Beechcraft Baron B58P
 description: 
 published: true
-date: 2026-10-08T22:06:12.529Z
+date: 2026-10-08T22:14:50.400Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-08T20:24:41.733Z
@@ -13,7 +13,6 @@ dateCreated: 2026-10-08T20:24:41.733Z
 * [Power Settings (TC)](#power-settings-tc)
 * [Bindings](#bindings)
 * [References](#references)
-* [Checklist](/planes/beechcraft-baron/jd-checklist)
 
 ---
 
@@ -72,3 +71,4 @@ Cruise Climb|35.5|2500|Leaned
 
 ## References
 * [Blacksquare Manual](/assets/beechcraft-baron/bksq_baronprofessionalmanual.pdf)
+* [Checklist](/planes/beechcraft-baron/jd-checklist)
