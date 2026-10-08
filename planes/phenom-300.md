@@ -1,8 +1,8 @@
 ---
-title: Phenom 300
+title: Embraer Phenom 300
 description: 
 published: true
-date: 2026-10-08T22:00:23.276Z
+date: 2026-10-08T22:28:24.144Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-08T21:49:09.276Z
