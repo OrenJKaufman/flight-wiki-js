@@ -2,7 +2,7 @@
 title: Beechcraft Baron B58P
 description: 
 published: true
-date: 2026-10-08T21:21:36.398Z
+date: 2026-10-08T21:33:55.452Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-08T20:24:41.733Z
@@ -12,6 +12,7 @@ dateCreated: 2026-10-08T20:24:41.733Z
 * [Power Settings (TC)](#power-settings-tc)
 * [Bindings](#bindings)
 * [References](#references)
+* [Checklist](/planes/beechcraft-baron/jd-checklist)
 
 ---
 
