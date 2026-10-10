@@ -2,7 +2,7 @@
 title: Beechcraft Baron B58P
 description: 
 published: true
-date: 2026-10-08T22:16:14.450Z
+date: 2026-10-10T20:14:40.331Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-08T20:24:41.733Z
@@ -67,7 +67,6 @@ Cruise Climb|35.5|2500|Leaned
 * OBS 1 and 2 on PAP CRS 1 and 2
 * Heading on PAP
   * HDG SEL toggles speed, display shows 000 for normal, 111 for fast
-* KAS dual encoder push knob on right double dual encoder
 
 ## References
 * [Blacksquare Manual](/assets/beechcraft-baron/bksq_baronprofessionalmanual.pdf)
