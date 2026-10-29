@@ -2,7 +2,7 @@
 title: Flight Sim
 description: All things flight sim
 published: true
-date: 2026-10-08T22:27:49.968Z
+date: 2026-10-29T22:27:28.273Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-07T20:02:24.387Z
@@ -14,3 +14,6 @@ dateCreated: 2026-10-07T20:02:24.387Z
 * [Cessna 208 Caravan](/planes/cessna-208)
 * [Embraer Phenom 300](/planes/phenom-300)
 * [Piper Comanche 250](/planes/piper-pa-24)
+
+## Misc
+* [Chase Plane Controls](/chase-plane)
